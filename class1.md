@@ -3,8 +3,7 @@
 
 ## click Here [For Reading](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering).
 
-
- ### In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles:
+### In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles:
 
  
  
