@@ -1,7 +1,8 @@
 ## Pain vs. Suffering
 ### The topic of pain versus suffering matters in this module because it highlights the importance of pushing through the discomfort and challenges of learning and growing as a software developer. In this field, one must be able to handle and overcome difficult obstacles, whether it's a coding problem or a communication issue with team members. Understanding the difference between pain and suffering can help students put their struggles into perspective and maintain a positive mindset throughout the course. By embracing the temporary pain of growth, students can build the resilience and determination needed to become successful software developers.
 
-https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering
+## click Here [For Reading](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering).
+
 
  ### In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles:
 
@@ -21,8 +22,8 @@ Two strategies for overcoming these obstacles could be:
 
 ### As a student, understanding Big O notation is crucial in analyzing the efficiency and scalability of algorithms. It allows you to make informed decisions when designing or selecting algorithms for large-scale applications. By having a solid understanding of Big O, you will be able to optimize your code and reduce the risk of performance issues that may arise when dealing with large data sets. In this way, understanding Big O can help you build better software systems that can handle larger workloads, making you a more effective and efficient programmer.
 
-
- https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+## click Here [For Reading](https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation).
+ 
 
 ### After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.
  Big O notation describes the performance or complexity of an algorithm, specifically the worst-case scenario. It can be used to describe execution time or space used. O(1) describes constant time/space; O(N) describes linear time/space; O(N^2) describes quadratic time/space; and O(2^N) describes exponential time/space. Logarithmic algorithms, like binary search, are described as O(log N). Time complexity refers to how long an algorithm takes to complete, while space complexity refers to how much memory an algorithm requires to execute.
@@ -32,7 +33,8 @@ Two strategies for overcoming these obstacles could be:
  
 ### Understanding the difference between mutable and immutable data types is important in Python because it affects how you can modify data in your program, and can impact the efficiency and reliability of your code.
 
- https://www.youtube.com/watch?v=_AEJHKGk9ns
+## click Here [For Watching the Video](https://www.youtube.com/watch?v=_AEJHKGk9ns).
+ 
 
  ### Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
 
@@ -49,4 +51,5 @@ Understanding the difference between mutable and immutable data types is importa
 ## Additional Resources
 ### Big O Notation can be scary. But it doesn't have to be! We unpack this popular cs topic and show you how to use it to evaluate different data structures (like linked lists!) and make better programming decisions.
 
-https://www.codenewbie.org/basecs/8
+## click Here [To Read full Artical](https://www.codenewbie.org/basecs/8).
+ 
