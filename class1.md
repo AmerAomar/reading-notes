@@ -52,4 +52,7 @@ Understanding the difference between mutable and immutable data types is importa
 ### Big O Notation can be scary. But it doesn't have to be! We unpack this popular cs topic and show you how to use it to evaluate different data structures (like linked lists!) and make better programming decisions.
 
 ## click Here [To Read full Artical](https://www.codenewbie.org/basecs/8).
+
+---
+## Things I want to know more about:
  
