@@ -22,7 +22,7 @@ the read() method when you want to read the entire contents of a file into memor
 the readline() method when you want to read a file line-by-line or when you only need to process a portion of a large file at a time. This method is useful when dealing with large files that may not fit entirely into memory.
 
 ---
-## Recursion
+## Exception
 ### Learning about exception handling is important for writing robust code that can handle unexpected errors or input. It can help prevent program crashes and improve user experience by providing useful error messages. It also allows for better control flow of the program and can help with debugging.
 ## click Here [For Reading](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/).
 
