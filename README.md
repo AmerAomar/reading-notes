@@ -7,4 +7,5 @@ The way to document and highlight my new knowledge.
 | ------------ | ---------------- | 
 |  Class 1   | [Reading](class1.md) | 
 |  Class 2   | [Reading](class2.md) |
-|  Class 3   | [Reading](class3.md) |  
+|  Class 3   | [Reading](class3.md) | 
+|  Class 4   | [Reading](class4.md) |  
