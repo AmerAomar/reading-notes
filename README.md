@@ -9,3 +9,4 @@ The way to document and highlight my new knowledge.
 |  Class 2   | [Reading](class2.md) |
 |  Class 3   | [Reading](class3.md) | 
 |  Class 4   | [Reading](class4.md) |  
+|  Data Structures and Algorithms  | [Reading](Data%20Structures%20and%20Algorithms.md) | 
