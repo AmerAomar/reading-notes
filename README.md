@@ -13,3 +13,4 @@ The way to document and highlight my new knowledge.
 |  Engineering Readings  | [Reading](Engineering%20Readings.md) | 
 |  Implementation: Linked Lists   | [Reading](Implementation%3A%20Linked%20Lists.md) | 
 |  Class 6   | [Reading](class6.md) |
+|  Class 7   | [Reading](class7.md) |
