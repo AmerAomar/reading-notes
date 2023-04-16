@@ -1,7 +1,7 @@
-## Big O: Analysis of Algorithm Efficiency 
+## Big O: Analysis of Algorithm Efficiency
 
 
-### **something that I learned**
+## **something that I learned**
 
 That the efficiency of an algorithm can be analyzed using Big O notation, which describes the runtime of an algorithm in terms of the size of the input. This is useful for understanding how an algorithm will perform on different types of input and for choosing the most efficient algorithm for a particular task.
 
