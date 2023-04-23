@@ -15,3 +15,4 @@ The way to document and highlight my new knowledge.
 |  Class 6   | [Reading](class6.md) |
 |  Class 7   | [Reading](class7.md) |
 |  Class 8   | [Reading](class8.md) |
+|  SQL practice   | [Reading](SQLPractice.md) |
