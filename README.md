@@ -16,3 +16,4 @@ The way to document and highlight my new knowledge.
 |  Class 7   | [Reading](class7.md) |
 |  Class 8   | [Reading](class8.md) |
 |  SQL practice   | [Reading](SQLPractice.md) |
+|  The Growth Mindset   | [Reading](The%20Growth%20Mindset.md) |
