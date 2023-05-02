@@ -19,3 +19,4 @@ The way to document and highlight my new knowledge.
 |  The Growth Mindset   | [Reading](The%20Growth%20Mindset.md) |
 |  The command line   | [Reading](The_Command_Line.md) |
 |  class 9   | [Reading](class9.md) |
+|  class 10   | [Reading](class10.md) |
