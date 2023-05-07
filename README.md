@@ -21,3 +21,4 @@ The way to document and highlight my new knowledge.
 |  class 9   | [Reading](class9.md) |
 |  class 10   | [Reading](class10.md) |
 |  class 11   | [Reading](class11.md) |
+|  class 12   | [Reading](class12.md) |
