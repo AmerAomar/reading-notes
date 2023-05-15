@@ -1,7 +1,8 @@
-# Reading Notes:
+# Reading Notes
 
-The way to document and highlight my new knowledge. 
-### Here in the table, I will Find for every class something to read.
+The way to document and highlight my new knowledge.
+
+### Here in the table, I will Find for every class something to read and learn about it.
 
 | Class Number (401) | Reading Material |
 | ------------ | ---------------- | 
@@ -23,3 +24,4 @@ The way to document and highlight my new knowledge.
 |  class 11   | [Reading](class11.md) |
 |  class 12   | [Reading](class12.md) |
 |  class 13   | [Reading](class13.md) |
+|  class 14   | [Reading](class14.md) |
