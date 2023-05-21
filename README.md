@@ -26,3 +26,4 @@ The way to document and highlight my new knowledge.
 |  class 13   | [Reading](class13.md) |
 |  class 14   | [Reading](class14.md) |
 |  class 15   | [Reading](class15.md) |
+|  class 16   | [Reading](class16.md) |
