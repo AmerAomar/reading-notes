@@ -28,3 +28,4 @@ The way to document and highlight my new knowledge.
 |  class 15   | [Reading](class15.md) |
 |  class 16   | [Reading](class16.md) |
 |  class 17   | [Reading](class17.md) |
+|  class 18   | [Reading](class18.md) |
