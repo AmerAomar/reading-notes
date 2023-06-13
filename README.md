@@ -31,4 +31,5 @@ The way to document and highlight my new knowledge.
 |  class 18   | [Reading](class18.md) |
 |  class 19   | [Reading](class19.md) |
 |  class 26   | [Reading](class26.md) |
-|  class 26   | [Reading](class27.md) |
+|  class 27   | [Reading](class27.md) |
+|  class 28   | [Reading](class28.md) |
