@@ -81,7 +81,7 @@ python manage.py makemigrations accounts
 
 Once these steps are completed, you have successfully created and implemented a Custom User Model in Django. You can now use your Custom User Model for user authentication and access the additional fields you defined in the model.
 
-## What is DjangoX and how does it complement or extend the functionality of Django? Provide an example use case for incorporating DjangoX in a project.
+## What is DjangoX and how does it complement or extend the functionality of Django? Provide an example use case for incorporating DjangoX in a project
 
 [django x](https://github.com/wsvincent/djangox)
 
