@@ -36,3 +36,4 @@ The way to document and highlight my new knowledge.
 |  class 29   | [Reading](class29.md) |
 |  class 30   | [Reading](class30.md) |
 |  class 31   | [Reading](class31.md) |
+|  class 32   | [Reading](class32.md) |
