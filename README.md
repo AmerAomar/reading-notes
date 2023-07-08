@@ -37,3 +37,4 @@ The way to document and highlight my new knowledge.
 |  class 30   | [Reading](class30.md) |
 |  class 31   | [Reading](class31.md) |
 |  class 32   | [Reading](class32.md) |
+|  class 33   | [Reading](class33.md) |
